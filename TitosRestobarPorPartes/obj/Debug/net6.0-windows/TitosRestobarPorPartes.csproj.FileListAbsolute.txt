@@ -1,0 +1,158 @@
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.ProductosVista.resources
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.GenerateResource.cache
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfoInputs.cache
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfo.cs
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CoreCompileInputs.cache
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.exe
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.deps.json
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.runtimeconfig.json
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\refint\TitosRestobarPorPartes.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.genruntimeconfig.cache
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\ref\TitosRestobarPorPartes.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.AssemblyReference.cache
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CopyComplete
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.PedidosVista.resources
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.ListadoPedidos.resources
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.InicioVistas.resources
+C:\Users\alons\source\repos\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.MesasVista.resources
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.exe
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.deps.json
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.runtimeconfig.json
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.AssemblyReference.cache
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.InicioVistas.resources
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.ListadoPedidos.resources
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.MesasVista.resources
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.PedidosVista.resources
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.ProductosVista.resources
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.GenerateResource.cache
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfoInputs.cache
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfo.cs
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CoreCompileInputs.cache
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CopyComplete
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\refint\TitosRestobarPorPartes.dll
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.genruntimeconfig.cache
+C:\Users\Ana Guevara\Desktop\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\ref\TitosRestobarPorPartes.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.exe
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.deps.json
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.runtimeconfig.json
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.AssemblyReference.cache
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.InicioVistas.resources
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.ListadoPedidos.resources
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.MesasVista.resources
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.PedidosVista.resources
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.ProductosVista.resources
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.GenerateResource.cache
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfoInputs.cache
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfo.cs
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CoreCompileInputs.cache
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CopyComplete
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\refint\TitosRestobarPorPartes.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.genruntimeconfig.cache
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\ref\TitosRestobarPorPartes.dll
+C:\Users\alons\Downloads\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.StockVista.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.exe
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.deps.json
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.runtimeconfig.json
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.AssemblyReference.cache
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.InicioVistas.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.ListadoPedidos.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.MesasVista.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.PedidosVista.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.ProductosVista.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.Vistas.StockVista.resources
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.GenerateResource.cache
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.GeneratedMSBuildEditorConfig.editorconfig
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfoInputs.cache
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.AssemblyInfo.cs
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CoreCompileInputs.cache
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.csproj.CopyComplete
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\refint\TitosRestobarPorPartes.dll
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.pdb
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\TitosRestobarPorPartes.genruntimeconfig.cache
+D:\RESTOBAR0.3 (2)\RESTOBAR0.3\TitosRestobarPorPartes\TitosRestobarPorPartes\obj\Debug\net6.0-windows\ref\TitosRestobarPorPartes.dll
